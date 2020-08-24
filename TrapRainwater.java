@@ -11,6 +11,6 @@ public class TrapRainwater{
         for (int i = 0; i <inputLength; i++){
             input[i] = in.nextInt();
         }
-
+        
     }
 }
